@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://selebnews.github.io/celebritychronicles/sitemap_index.xml
